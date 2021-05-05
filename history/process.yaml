@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE01ISSM-MFD35-05-PCO2WB000-recovered_inst-pco2w_abc_instrument
 data_stream: CE01ISSM-MFD35-05-PCO2WB000-recovered_inst-pco2w_abc_instrument
 end_date: '2020-03-01T16:35:32.000Z'
-last_updated: '2021-05-04T23:42:49.543053Z'
+last_updated: '2021-05-05T00:11:59.084447'
 start_date: '2014-04-17T20:45:00.000Z'
-status: pending
+status: success
